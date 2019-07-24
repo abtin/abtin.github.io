@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abtin</title>
+    <link>https://abtin.github.io/</link>
+    <description>Recent content on abtin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2019 20:01:06 -0400</lastBuildDate>
+    
+	<atom:link href="https://abtin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shoshin</title>
+      <link>https://abtin.github.io/posts/shoshin/</link>
+      <pubDate>Tue, 23 Jul 2019 20:01:06 -0400</pubDate>
+      
+      <guid>https://abtin.github.io/posts/shoshin/</guid>
+      <description>Shoshin</description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://abtin.github.io/projects/intro/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://abtin.github.io/projects/intro/</guid>
+      <description>Over more than two decades of consulting with tight NDAs prevents me of posting projects I&amp;rsquo;ve worked on. But that will hopefully change as soon as I work on some open-source projects. Stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>
